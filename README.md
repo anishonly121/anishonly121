@@ -3,6 +3,7 @@
 IT student at Singapore Polytechnic, currently interning with CapitaLand Investment's Digital & Technology team. I like building things end to end and checking that they actually work.
 
 ### What I've built
+- **Dispute Desk**: PayPal disputes copilot for small shops (Next.js, TypeScript, PayPal REST APIs, Gemini). Builds a case file from PayPal data, suggests the next step with AI, and checks every answer in code before a human approves it. 17 automated tests. [Live](https://dispute-desk-nine.vercel.app) · [Code](https://github.com/anishonly121/dispute-desk)
 - **InsightStack**: full-stack finance analytics app (Next.js, TypeScript, PostgreSQL). Wrote my own analysis engine with BM25 search and regression, covered by 29 integration tests. [Live](https://insightstack-peach.vercel.app) · [Code](https://github.com/anishonly121/insightstack-blueprint)
 - **HeatCheck**: hourly Databricks pipeline that scores heat risk for seniors across 216 Singapore subzones. [Live map](https://anishonly121.github.io/heatcheck-sg/heatcheck_map_interactive.html) · [Code](https://github.com/anishonly121/heatcheck-sg)
 - **Market Dashboard**: FastAPI and React app with live portfolio P&L, stock comparison and backtesting. [Live](https://frontend-two-dun-61.vercel.app) · [Code](https://github.com/anishonly121/market-dashboard)
